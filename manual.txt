@@ -1,0 +1,7 @@
+
+To compile the program do :
+gcc main.c -o main
+
+to run the program : 
+./main SOURCEFILE TARGETFILE BUFFERSIZE CHUNKSIZE
+
